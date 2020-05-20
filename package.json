@@ -1,0 +1,19 @@
+{
+  "name": "express-1",
+  "version": "1.0.0",
+  "description": "First itc230 express app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuddhaTheChef/itc-230-express-1.git"
+  },
+  "author": "Aj Wietecha",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BuddhaTheChef/itc-230-express-1/issues"
+  },
+  "homepage": "https://github.com/BuddhaTheChef/itc-230-express-1#readme"
+}
