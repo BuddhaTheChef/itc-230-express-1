@@ -10,6 +10,7 @@ const PORT = 3000;
 //this is how a route is built in express
 app.get('/',(req,res)=>{
   res.send(`Hey Budd! App is running on port ${PORT}`);
+  res.json(data);
 });
 
 //app.listen(3000);
